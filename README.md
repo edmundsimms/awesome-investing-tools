@@ -6,10 +6,15 @@ Feel free to contribute.
 ### Learning materials
 - [Investopedia university](https://www.investopedia.com/university/) - Great library full of knowledge and explainer videos
 
+### General tools
+- [PolarNote](https://polarnote.ai) - Investing note-taking, second brain for investment notes, watchlist and portfolio. AI live analysis.
+- [Ghostfolio](https://ghostfol.io) - Open source wealth management software to keep track of stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions.
+
+
 ### Stock screeners
-- [Finviz.com](https://finviz.com/) - Fast and powerful stock screener, old & reliable UI
 - [Simplywall.st](https://simplywall.st/) - For people loving charts and visual. Deep look into specific stocks
 - [TradingView.com](https://www.tradingview.com/screener/) - Advanced stock screening and research
+- [Finviz.com](https://finviz.com/) - Fast and powerful stock screener, old & reliable UI
 - [Finbox.io](https://finbox.io/) - For people loving charts and visual. Deep look into specific stocks
 
 ### Dividend oriented
